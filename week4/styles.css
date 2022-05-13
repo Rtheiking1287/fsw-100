@@ -1,0 +1,83 @@
+.nav-bar {
+    position: fixed;
+    width: 100%;
+    margin: 10px;
+    background-color: seagreen;
+    border: 2px black solid;
+}
+
+.about {
+    position: relative;
+    left: 315px;
+}
+
+.archives {
+    position: relative;
+    left: 630px;
+}
+
+.merch {
+    position: relative;
+    left: 945px;
+}
+
+.blogs {
+    position: relative;
+    right: 30px;
+    width: 75%;
+}
+
+.post-one {
+  background-color: rgba(29, 121, 227, 0.447);
+  border: 30px black solid;
+  width: 35%;
+  height: 50%;
+  padding: 20px;
+  margin: 20px;
+  position: relative;
+  left: 50%;
+  top: 100px;
+}
+
+.post-two {
+    background-color: rgba(29, 121, 227, 0.447);
+    border: 30px black solid;
+    width: 35%;
+    height: 50%;
+    padding: 20px;
+    margin: 20px;
+    position: relative;
+    left: 50%;
+    top: 100px;
+  }
+
+  .post-three {
+    background-color: rgba(29, 121, 227, 0.447);
+    border: 30px black solid;
+    width: 35%;
+    height: 50%;
+    padding: 20px;
+    margin: 20px;
+    position: relative;
+    left: 50%;
+    top: 100px;
+  }
+
+p {
+    text-align: justify;
+    
+}
+ h2 {
+     font-weight: bold;
+ }
+
+
+.photo-one, .photo-two, .photo-three {
+    float: left; 
+    padding: 10px
+
+}
+
+body {
+    background-color: aquamarine;
+}
