@@ -1,0 +1,208 @@
+/*Nav*/
+.watch {
+    left: 200px;
+    top: 0px;
+    position: fixed;
+    width: 10%;
+    margin: 10px;
+    background-color: rgb(237, 90, 149);
+    border: 2px rgb(237, 90, 149);
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    color: rgb(71, 69, 69);
+    font-size: 40px;    
+}
+
+.characters {
+    left: 450px;
+    top: 0px;
+    position: fixed;
+    width: 15%;
+    margin: 10px;
+    background-color: rgb(214, 252, 78);
+    border: 2px rgb(214, 252, 78);
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    color: rgb(71, 69, 69);
+    font-size: 40px;
+}
+
+.play {
+    left: 1020px;
+    top: 0px;
+    position: fixed;
+    width: 10%;
+    margin: 10px;
+    background-color: seagreen;
+    border: 2px seagreen;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    color: rgb(71, 69, 69);
+    font-size: 40px;
+}
+
+.merchandise {
+    left: 1270px;
+    top: 0px;
+    position: fixed;
+    width: 15%;
+    margin: 10px;
+    background-color: rgb(115, 77, 163);
+    border: 2px rgb(115, 77, 163);
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    color: rgb(71, 69, 69);
+    font-size: 40px;
+}
+
+/*Main*/
+body {
+    background-color: skyblue;
+}
+
+.blogs {
+    position: relative;
+    right: 30px;
+    width: 75%;
+}
+
+.post-one {
+  background-color: rgba(29, 121, 227, 0.447);
+  border: 5px rgb(140, 35, 172) solid;
+  width: 35%;
+  height: 50%;
+  padding: 20px;
+  margin: 20px;
+  position: relative;
+  left: 50%;
+  top: -850px;
+}
+
+.post-two {
+    background-color: rgba(29, 121, 227, 0.447);
+    border: 5px rgb(140, 35, 172) solid;
+    width: 35%;
+    height: 50%;
+    padding: 20px;
+    margin: 20px;
+    position: relative;
+    left: 50%;
+    top: -850px;
+  }
+
+  .post-three {
+    background-color: rgba(29, 121, 227, 0.447);
+    border: 5px rgb(140, 35, 172) solid;
+    width: 35%;
+    height: 50%;
+    padding: 20px;
+    margin: 20px;
+    position: relative;
+    left: 50%;
+    top: -850px;
+  }
+
+p {
+    text-align: justify;
+    color: rgb(68, 7, 126);
+    
+}
+
+h1 {
+    font-size: 150%;
+}
+
+ h2 {
+     font-weight: bold;
+     color: rgb(68, 7, 126);
+ }
+
+ h5 {
+    font-weight: bold;
+    color: rgb(68, 7, 126);
+}
+
+.title {
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 100px;
+    color: white;
+    position: fixed;
+    left: 400px;
+    top: 15px;;
+}
+
+.download {
+    background-color: rgba(29, 121, 227, 0.447);
+    border: 5px rgb(140, 35, 172) solid;
+    width: 35%;
+    height: 50%;
+    padding: 20px;
+    margin: 20px;
+    position: relative;
+    left: 590px;
+    top: -850px;
+    text-align: center;
+    color: rgb(68, 7, 126);
+}
+
+table, th, td {
+    border: 1px solid;
+}
+
+.list {
+    position: relative;
+    left: 70%;
+    top: -400px;
+    text-size-adjust: 70px;
+}
+
+.footer {
+    position: absolute;
+    top: 1400px;
+    left: 665px;
+}
+
+/*Pics*/
+.family-pic {
+    position: relative;
+    left: 48%;
+    top: 200px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.bingo-pic {
+    position: relative;
+    left: 5%;
+    top: 300px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.bandit {
+    position: relative;
+    left: 10%;
+    top: 70px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.chilli {
+    position: relative;
+    left: 20%;
+    top: 1000px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.bluey-title {
+    position: fixed;
+    left: 720px;
+    top: 15px;
+}
+
+.photo-one, .photo-two, .photo-three {
+    float: left; 
+    padding: 10px
+}
